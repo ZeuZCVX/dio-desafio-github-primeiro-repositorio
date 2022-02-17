@@ -1,0 +1,18 @@
+## Sobre Git/GitHub
+
+
+
+- Link de download do git: (https://git-scm.com/downloads)
+- Link do GitHub: (https://github.com/)
+
+
+
+# sobre o Git
+
+git ajuda na organização de arquivos e na facilidade de acesso ao github
+
+
+
+# sobre o GitHub
+
+Github e onde podemos guarda e compartilhar nosso repositório e portfolios 
